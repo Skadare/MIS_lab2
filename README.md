@@ -1,5 +1,9 @@
 # lab2
 
+[Watch the demo (WEBM)](video/video.webm?raw=1)
+
+![Demo](video/video_gif.gif)
+
 A new Flutter project.
 
 ## Getting Started
